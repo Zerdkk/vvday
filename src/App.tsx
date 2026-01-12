@@ -15,7 +15,7 @@ export default function Page() {
       "No",
       "Are you sure?",
       "Really sure?",
-      "Think again!",
+      "Please think again!",
       "Last chance!",
       "Surely not?",
       "You might regret this!",
